@@ -55,8 +55,8 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     ],
     description:
       "My personal portfolio website made using Nextjs, tailwindcss and framer motion.",
-    sourceCodeHref: "https://github.com/aamna-ansari/Portfolio_aaMna",
-    liveWebsiteHref: "https://aamnansari.vercel.app/",
+    sourceCodeHref: "https://github.com/waleedahmad36/portfolio_waleed",
+    liveWebsiteHref: "https://portfolio-waleed-kappa.vercel.app/",
   },
   {
     name: "Mystaria",
