@@ -66,6 +66,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "/images/projects/mystariaDark.png",
       "/images/projects/dashboard.png",
       "/images/projects/community.png",
+      "/images/projects/reports.png",
     ],
     description:
       "A Social media web application using the mernstack. Featuring real time notifications, private chatting with text and image support , positing with crud functionality , ai generated images , jarvis, a voice controlled assistant for managing complete website and many more",
@@ -126,6 +127,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     favicon: "/images/projects/logos/manygames.ico",
     imageUrl: [
       "/images/projects/awarded.png",
+      "/images/projects/awarded2.png",
     ],
     description:
       "I build this website in next js with some beautiful and attractive animations, we used react awsome reveal , framer motion and some other stunning libraries to make it look attractive",
